@@ -1,0 +1,14 @@
+body {
+  padding: auto;
+  margin: auto;
+}
+
+.card {
+  box-shadow: 5px 5px;
+  width: 500px;
+  margin: 10% 30%;
+}
+
+img {
+  height: 400px;
+}
